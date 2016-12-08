@@ -50,7 +50,7 @@ class AppComponent extends React.Component {
       imgsArrangeArr: [] // 图片的坐标
     }
   }
-    /**
+  /**
    * 重新布局所有图片
    * @param centerIndex 指定居中排布哪个图片
    */
@@ -96,7 +96,7 @@ class AppComponent extends React.Component {
         } else {
           hPosRangeLORX = hPosRangeRightSecX;
         }
-
+        
         imgsArrangeArr[i].pos = {
           top: getRangeRandom(hPosRangeY[0], hPosRangeY[1]),
           left: getRangeRandom(hPosRangeLORX[0], hPosRangeLORX[1])
@@ -164,7 +164,7 @@ class AppComponent extends React.Component {
           }
         }
       }
-      imgFigures.push(<ImgFigure data={value} ref = {`imgFigure ${index}`} arrange={this.state.imgsArrangeArr[index]} />);
+      imgFigures.push(<ImgFigure data={value} ref={"imgFigure" + index} arrange={this.state.imgsArrangeArr[index]} key={index} />);
     }.bind(this)); // 直接将react.component对象传递进去
     return (
       <section className="stage" ref="stage">
