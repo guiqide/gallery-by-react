@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"props\tReact: this.props."
+			],
+			[
+				"style",
+				"styleObj"
+			],
+			[
+				"imgs",
+				"imgsArrangeArr"
+			],
+			[
+				"ima",
+				"imageDatasArr"
+			],
+			[
+				"cent",
+				"centerIndex"
+			],
+			[
+				"top",
+				"topImgSpliceIndex"
+			],
+			[
+				"hpo",
+				"hPosRangeLORX"
+			],
+			[
+				"hpos",
+				"hPosRangeRightSecX"
+			],
+			[
+				"hPosRangeL",
+				"hPosRangeLeftSecX"
+			],
+			[
+				"vpo",
+				"vPosRangeX"
+			],
+			[
+				"vPosRange",
+				"vPosRangeX"
+			],
+			[
+				"get",
+				"getRangeRandom"
+			],
+			[
+				"vp",
+				"vPosRangeTopY"
+			],
+			[
+				"imgsArr",
+				"imgsArrangeTopArr"
+			],
+			[
+				"topIm",
+				"topImgSpliceIndex"
+			],
+			[
+				"center",
+				"centerPos"
+			],
+			[
+				"hp",
+				"hPosRange"
+			],
+			[
+				"cen",
+				"centerPos"
+			],
+			[
+				"re",
+				"rearrange"
+			],
+			[
+				"hal",
+				"halfStageH"
+			],
+			[
+				"to",
+				"topY"
+			],
+			[
+				"sta",
+				"stageH"
+			],
+			[
+				"ha",
+				"halfImgH"
+			],
+			[
+				"ri",
+				"rightSecY"
+			],
+			[
+				"h",
+				"hPosRange"
+			],
+			[
+				"img",
+				"imgW"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"module",
+				"moduleId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Main.js",
+			"settings":
+			{
+				"buffer_size": 5268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cfg/dev.js",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cfg/defaults.js",
+			"settings":
+			{
+				"buffer_size": 1587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/styles/ImgFigure.scss",
+			"settings":
+			{
+				"buffer_size": 569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/ImgFigureComponent.js",
+			"settings":
+			{
+				"buffer_size": 747,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+			"pwd",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"pwd",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dropbox/Code/Learning/React/gallery-by-react",
+		"/C/Dropbox/Code/Learning/React/gallery-by-react/cfg",
+		"/C/Dropbox/Code/Learning/React/gallery-by-react/src"
+	],
+	"file_history":
+	[
+		"/C/Dropbox/Code/Learning/React/gallery-by-react/src/config/dev.js",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Babel.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Babel/Babel.sublime-settings",
+		"/C/Dropbox/Code/Learning/React/gallery-by-react/gallery-by-react.sublime-project",
+		"/C/Dropbox/Code/Learning/React/gallery-by-react/project.sublime-project",
+		"/C/Dropbox/Code/Learning/React/hello-world/src/index.js",
+		"/C/Dropbox/Code/Learning/React/hello-world/package.json",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/home.html",
+		"/C/Dropbox/Code/Learning/React/hello-world/public/index.html",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/index-7a78637057.css",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/index-df36ed6e5f.js",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/informCreate.html",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/stat.html",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/aboutreport.html",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/debug.html",
+		"/E/hpm/H5_APP_CENTER_UNZIP/2/2/alid/app/report/selectTemplate_new.html",
+		"/C/Dropbox/Code/analysis/tencent/index.html",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/README.md",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/js/services.js",
+		"/C/Dropbox/Code/midea/lib/js/main/services.js",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/js/controllers/perCenterCtr.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/controllers/mineCtrl.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/services.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/project/configuration_test.properties.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/CubeModule.json",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/controllers/mine/prepaymentInfoCtrl.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/controllers/mine/paymentAppInfoCtrl.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/js/controllers/mine/personalInfoCtrl.js",
+		"/C/git_repositories/product/h5-dev-finance-newApp-or/lib/js/main/services.js",
+		"/C/Dropbox/Code/Learning/angular2/project1/tsconfig.json",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/js/controllers/baseCtrl.js",
+		"/C/Dropbox/Code/openSource/underscore/underscore.js",
+		"/C/Dropbox/Code/openSource/Mediator.js/test/MediatorSpec.js",
+		"/C/Dropbox/Code/openSource/Mediator.js/lib/mediator.js",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/lib/js/main/routeWithoutLoadingBar.js",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/js/controllers/mall/confirmOrderCtrl.js",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/js/controllers/mall/orderUnpayCtrl.js",
+		"/C/Dropbox/Code/test/seed.js",
+		"/E/美的项目/新美的金融/第二期/com.midea.wallet.financialMarket/index.html",
+		"/C/Dropbox/Code/openSource/Mediator.js/bower.json",
+		"/C/Dropbox/Code/openSource/Mediator.js/.gitignore",
+		"/C/Dropbox/Code/openSource/Mediator.js/lib-cov/mediator.js",
+		"/C/Dropbox/Code/openSource/underscore/index.html",
+		"/C/Dropbox/Code/openSource/vux/package.json",
+		"/D/MyData/我的图片/test.html",
+		"/E/美的项目/新美的金融/第二期/com.midea.wallet.bao/index.html",
+		"/C/Dropbox/Code/openSource/vux/build/karma.conf.js",
+		"/C/Dropbox/Code/Learning/ionic/myproject2/node_modules/gulp-minify-css/test/fixture/index.css",
+		"/C/Dropbox/Code/openSource/vux/.babelrc",
+		"/C/Dropbox/Code/openSource/vux/bower.json",
+		"/C/Dropbox/Code/openSource/vux/npm-debug.log",
+		"/C/Dropbox/Code/openSource/vux/favicon.ico",
+		"/C/Dropbox/Code/openSource/vux/CNAME",
+		"/C/Dropbox/Code/openSource/vux/circle.yml",
+		"/C/Dropbox/Code/openSource/vux/.editorconfig",
+		"/C/Dropbox/Code/openSource/vux/.eslintignore",
+		"/C/Dropbox/Code/openSource/vux/.eslintrc.js",
+		"/C/Dropbox/Code/openSource/vux/.gitignore",
+		"/C/Dropbox/Code/openSource/vux/.npmignore",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/template/perCenter.html",
+		"/C/git_repositories/product/h5-dev-logistics-owner-me/js/services.js",
+		"/C/git_repositories/product/h5-dev-logistics-owner-me/js/project/configuration.properties.js",
+		"/C/Dropbox/Code/Learning/html/innerstyle.html",
+		"/C/git_repositories/product/h5-dev-logistics-owner-me/js/controllers/perCenterCtr.js",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/index.html",
+		"/C/git_repositories/product/h5-dev-logistics-driver-me/template/home.html",
+		"/E/美的项目/新美的金融/第二期/com.midea.wallet.bao/cordova.js",
+		"/E/美的项目/新美的金融/第二期/com.midea.wallet.bao/CubeModule.json",
+		"/E/美的项目/新美的金融/第二期/com.midea.wallet.bao/cordova_plugins.js",
+		"/C/Dropbox/Code/Learning/javascript/framwork/自运行函数的传参.js",
+		"/C/Dropbox/Code/Learning/javascript/framwork/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\git_repositories\\product\\h5-dev-finance-newApp-or\\js",
+			"C:\\git_repositories\\product\\h5-dev-logistics-driver-me"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debug",
+			"hPosRangeLeftSecX",
+			"this.",
+			"getrange",
+			"this",
+			"styleObj",
+			"Constant",
+			"react",
+			"cordova",
+			"openH5Wallet",
+			"openH5Wallet ",
+			"openH5Wallet",
+			"request",
+			"deviceinfo",
+			"$rootScope.checkIp",
+			"baseService.items.set('logistics', 'phoneInfo'",
+			"baseService",
+			"anntoFactory",
+			"mideaPayUrl",
+			"mideaPayGetWallet",
+			"hasMideaPayAccount",
+			"modal",
+			"obj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/Main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4141,
+								4141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2532.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cfg/dev.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cfg/defaults.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/styles/ImgFigure.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/components/ImgFigureComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gallery-by-react.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"imgs",
+				"src\\styles\\ImgFigure.scss"
+			],
+			[
+				"dev",
+				"cfg\\dev.js"
+			],
+			[
+				"imgfigu",
+				"src\\components\\ImgFigureComponent.js"
+			],
+			[
+				"main.",
+				"src\\components\\Main.js"
+			],
+			[
+				"",
+				"Learning\\angular2\\project1\\tsconfig.json"
+			],
+			[
+				"service",
+				"product\\h5-dev-finance-newApp-or\\js\\services.js"
+			],
+			[
+				"per",
+				"h5-dev-logistics-driver-me\\js\\controllers\\perCenterCtr.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "Main",
+		"selected_items":
+		[
+			[
+				"Main",
+				"MainTemplate"
+			]
+		],
+		"width": 843.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
